@@ -7,9 +7,9 @@ Code to control a Blender model using sensor data from a Kinect.
 </div>
 
 ### Tools used
-* Openni 1.5
+* OpenNI 1.5
 * NiTE 1.5
-* SimpleOpenni 0.27
+* SimpleOpenNI 0.27
 * Blender 2.78
 
 Based on Alvaros' [MotioSuit](https://github.com/alvaroferran/MotioSuit) project.
